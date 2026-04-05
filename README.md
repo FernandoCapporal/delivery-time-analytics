@@ -1,3 +1,7 @@
+# Version
+
+1.0.0
+
 # Delivery Time Analytics
 
 End-to-end data pipeline and analytics solution for delivery time monitoring and prediction. Covers weekly ETL orchestration with Apache Airflow, machine learning model training, and an interactive Streamlit dashboard for stakeholder reporting.
