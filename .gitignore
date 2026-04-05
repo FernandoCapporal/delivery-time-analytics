@@ -209,3 +209,9 @@ __marimo__/
 /*.csv
 .idea/
 logs/
+# macOS metadata
+.DS_Store
+
+# Notebook data and model artifacts (large binary/data files)
+notebooks/*.csv
+notebooks/*.pkl
